@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    min-width: 100vh;
+    min-width: 87%;
     flex-direction: column;
     background-color: hsl(233, 47%, 7%);
     color:  hsl(0, 0%, 100%);
@@ -80,7 +80,7 @@ h1 span {
 @media (max-width:1024px) {
     body{
         min-height: 150vh;
-        min-width: none;
+        
     }
     main{
         width: 450px;
